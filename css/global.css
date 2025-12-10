@@ -9,8 +9,13 @@ body {
   color: #141414;
 }
 
-ul {
+ul {  
   list-style: none;
+}
+
+a{
+  text-decoration: none;
+  color: #141414;
 }
 
 img {
