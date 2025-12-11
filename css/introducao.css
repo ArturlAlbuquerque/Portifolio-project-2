@@ -1,10 +1,4 @@
 .introducao {
-  display: grid;
-  grid-template-columns: 1fr 2fr;
-  max-width: 1240px;
-  padding: 80px 20px;
-  margin: 0 auto;
-  gap: 100px;
   align-items: center;
 }
 
