@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -9,11 +9,11 @@ body {
   color: #141414;
 }
 
-ul {  
+ul {
   list-style: none;
 }
 
-a{
+a {
   text-decoration: none;
   color: #141414;
 }
@@ -28,9 +28,9 @@ img {
   display: grid;
   grid-template-columns: 1fr 2fr;
   max-width: 1240px;
-  padding: 80px 20px;
+  padding: 120px 20px;
   margin: 0 auto;
-  gap: 100px;
+  gap: 0px 100px;
 }
 
 .subtitulo {
@@ -46,5 +46,9 @@ img {
     font-size: 3rem;
     text-transform: capitalize;
     max-width: initial !important;
+  }
+
+  .conteiner {
+    padding: 60px 20px;
   }
 }
