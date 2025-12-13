@@ -31,6 +31,7 @@ img {
   padding: 120px 20px;
   margin: 0 auto;
   gap: 0px 100px;
+  position: relative;
 }
 
 .subtitulo {
