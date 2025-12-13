@@ -1,5 +1,5 @@
 .formacao {
-  background-color: #141414;  
+  background-color: #141414;
 }
 
 .formacao .conteiner::after {
@@ -19,10 +19,6 @@
 }
 
 .formacao-texto {
-  font-size: 1.5rem;
-  line-height: 1.33;
-  max-width: 40ch;
-  margin-bottom: 60px;
   color: #a3a3a3;
 }
 

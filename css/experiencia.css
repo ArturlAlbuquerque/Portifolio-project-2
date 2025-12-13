@@ -3,10 +3,6 @@
 }
 
 .experiencia-texto {
-  font-size: 1.5rem;
-  line-height: 1.33;
-  max-width: 40ch;
-  margin-bottom: 60px;
   color: #525252;
 }
 
@@ -48,7 +44,7 @@
 .empresa-titulo {
   font-size: 1.125rem;
   line-height: 1.1;
-  font-weight: bold;  
+  font-weight: bold;
 }
 
 .span {
